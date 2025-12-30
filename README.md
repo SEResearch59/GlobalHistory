@@ -10,3 +10,5 @@ For each platform, the source code includes:
 4. attack targeting RSA: run make rsa, insert module for RSA and run work-rsa.sh
 
 The shift paremeter maybe different according to platforms. You can enumarte the shift parameter from 0 to the GHR size to migrate attack on your platform.
+
+If you have any question， contact me: srh@stu.hit.edu.cn
